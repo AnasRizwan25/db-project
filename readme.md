@@ -62,7 +62,7 @@ pip install cx_Oracle Tkinter
 
 ## ⚙️ Oracle Table Setup
 
-Run these SQL commands in Oracle SQL Developer or SQL*Plus:
+ Oracle SQL Developer or SQL*Plus Tables:
 ```bash
 students 
 courses
