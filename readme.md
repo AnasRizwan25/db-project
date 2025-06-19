@@ -1,6 +1,6 @@
 # 📚 Course Registration System (Python + Oracle + Tkinter GUI)
 
-A modern university course registration system with a beautiful GUI built using **Python**, **Oracle 11g**, and **ttkbootstrap** — an animated and modern theme library for Tkinter.
+A modern university course registration system with a beautiful GUI built using **Python**, **Oracle 11g** and library for Tkinter.
 
 ---
 
@@ -11,7 +11,6 @@ A modern university course registration system with a beautiful GUI built using 
 - 📋 Add & view courses (Admin)  
 - 📝 Enroll in courses (Students — max 5)  
 - 📊 View registered courses  
-- 🌟 Modern animated UI using `ttkbootstrap`
 
 ---
 
@@ -19,14 +18,14 @@ A modern university course registration system with a beautiful GUI built using 
 
 | Layer        | Technology               |
 |--------------|--------------------------|
-| GUI Frontend | Python `ttkbootstrap`    |
+| GUI Frontend | Python `Tkinter`    |
 | Backend      | Python                   |
 | Database     | Oracle 11g               |
 
 ---
 
 ## 📁 Project Structure
-
+---
 course_registration_system/
 ├── db/
 │ ├── connection.py # Oracle DB connection
@@ -40,7 +39,7 @@ course_registration_system/
 ├── README.md
 └── requirements.txt
 
-
+---
 
 ---
 
