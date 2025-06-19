@@ -57,9 +57,13 @@ Install the required Python libraries:
 
 ```bash
 pip install cx_Oracle Tkinter
-⚙️ Oracle Table Setup
-Run these SQL commands in Oracle SQL Developer or SQL*Plus:
 
+```
+
+## ⚙️ Oracle Table Setup
+
+Run these SQL commands in Oracle SQL Developer or SQL*Plus:
+```bash
 students 
 courses
 registrations 
