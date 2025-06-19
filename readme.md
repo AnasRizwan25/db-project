@@ -25,7 +25,7 @@ A modern university course registration system with a beautiful GUI built using 
 ---
 
 ## 📁 Project Structure
----
+```bash
 course_registration_system/
 ├── db/
 │ ├── connection.py # Oracle DB connection
@@ -38,8 +38,8 @@ course_registration_system/
 ├── main.py # App launcher
 ├── README.md
 └── requirements.txt
+```
 
----
 
 ---
 
