@@ -9,11 +9,11 @@ def open_login_window(user_type):
     def login():
         user = login_student(email.get(), password.get())
         if user:
-            if user_type == "admin":
-                if email.get() == "admin@admin.com":
+            if user_type == "--":
+                if email.get() == "--@--.com":
                     open_admin_dashboard()
                 else:
-                    messagebox.showerror("Error", "Only admin@admin.com allowed")
+                    messagebox.showerror("Error", "Only --@--.com allowed")
             else:
                 open_student_dashboard(user[0], user[1])
         else:
